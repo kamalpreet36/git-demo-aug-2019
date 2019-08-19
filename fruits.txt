@@ -1,6 +1,3 @@
 Apple
-<<<<<<< HEAD
 Orange
 Grapes
-=======
->>>>>>> parent of 7457e57... added orange
